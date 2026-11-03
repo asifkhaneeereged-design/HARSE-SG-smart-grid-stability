@@ -14,7 +14,8 @@ Both of the following peer-reviewed articles use the same dataset (`smart_grid_s
 
 1. **Explainable hybrid stacking ensemble for robust smart grid stability assessment under cyber–physical disturbances**<br>
    Abu Shufian, Md. Asif Khan, Rajin Al Fatemi, F. M. Mahir Daiyan, Md. Ashiquzzaman, Shaikh Anowarul Fattah — *Scientific Reports*, 16, Article 32080 (2026).<br>
-   **DOI:** [10.1038/s41598-026-75252-2](https://doi.org/10.1038/s41598-026-75252-2)
+   **DOI:** [10.1038/s41598-026-75252-2](https://doi.org/10.1038/s41598-026-75252-2)<br>
+   **Full source code:** [Cyber_Physical_Smart_Grid_Stability](https://github.com/asifkhaneeereged-design/Cyber_Physical_Smart_Grid_Stability)
 
 2. **Physics-informed graph-attention feature fusion network for renewable-integrated smart grid stability assessment**<br>
    Abu Shufian, Md. Asif Khan, Rajin Al Fatemi, F. M. Mahir Daiyan, Shaikh Anowarul Fattah — *Measurement: Energy*, 12, Article 100117 (2026).<br>
@@ -44,6 +45,8 @@ Modern smart grids depend on renewable generation, decentralized control, and co
 | `CITATION.cff` | Citation metadata |
 | `LICENSE` | MIT License |
 | `README.md` | Project documentation |
+
+> **Note:** The complete implementation of the HARSE-SG framework (*Scientific Reports* paper), including training, evaluation, robustness testing, and explainability code, is available at [asifkhaneeereged-design/Cyber_Physical_Smart_Grid_Stability](https://github.com/asifkhaneeereged-design/Cyber_Physical_Smart_Grid_Stability).
 
 ---
 
