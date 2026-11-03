@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "Both articles below use the dataset in this repository. If you use this dataset, please cite both articles."
+title: "HARSE-SG-smart-grid-stability"
+authors:
+  - family-names: "Khan"
+    given-names: "Md. Asif"
+    affiliation: "Research Centre for Green Energy, Electro-Anatomy, and Digital Intelligence (ReGED), Dhaka, Bangladesh"
+license: MIT
+repository-code: "https://github.com/asifkhaneeereged-design/HARSE-SG-smart-grid-stability"
+preferred-citation:
+  type: article
+  title: "Explainable hybrid stacking ensemble for robust smart grid stability assessment under cyber–physical disturbances"
+  authors:
+    - family-names: "Shufian"
+      given-names: "Abu"
+    - family-names: "Khan"
+      given-names: "Md. Asif"
+    - family-names: "Al Fatemi"
+      given-names: "Rajin"
+    - family-names: "Daiyan"
+      given-names: "F. M. Mahir"
+    - family-names: "Ashiquzzaman"
+      given-names: "Md."
+    - family-names: "Fattah"
+      given-names: "Shaikh Anowarul"
+  journal: "Scientific Reports"
+  volume: 16
+  start: 32080
+  year: 2026
+  doi: "10.1038/s41598-026-75252-2"
+  url: "https://doi.org/10.1038/s41598-026-75252-2"
+references:
+  - type: article
+    title: "Physics-informed graph-attention feature fusion network for renewable-integrated smart grid stability assessment"
+    authors:
+      - family-names: "Shufian"
+        given-names: "Abu"
+      - family-names: "Khan"
+        given-names: "Md. Asif"
+      - family-names: "Al Fatemi"
+        given-names: "Rajin"
+      - family-names: "Daiyan"
+        given-names: "F. M. Mahir"
+      - family-names: "Fattah"
+        given-names: "Shaikh Anowarul"
+    journal: "Measurement: Energy"
+    volume: 12
+    start: 100117
+    year: 2026
+    month: 12
+    doi: "10.1016/j.meaene.2026.100117"
+    url: "https://doi.org/10.1016/j.meaene.2026.100117"
